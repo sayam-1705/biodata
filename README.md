@@ -348,7 +348,7 @@ This project is open source and available for personal use.
 
 - Email: sayam2022mondal@gmail.com
 - GitHub: [@sayam-1705](https://github.com/sayam-1705)
-- LinkedIn: [mondalsayam](https://www.linkedin.com/in/mondalsayam/)
+- LinkedIn: [mondalsayam](https://www.linkedin.com/in/sayammondal/)
 
 ## 🙏 Acknowledgments
 
